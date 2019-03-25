@@ -1,14 +1,12 @@
 {
-  "main.css": "/static/css/main.8f5855ae.chunk.css",
-  "main.js": "/static/js/main.f7f8c23b.chunk.js",
-  "main.js.map": "/static/js/main.f7f8c23b.chunk.js.map",
-  "static/js/1.fa92c112.chunk.js": "/static/js/1.fa92c112.chunk.js",
-  "static/js/1.fa92c112.chunk.js.map": "/static/js/1.fa92c112.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/css/main.8f5855ae.chunk.css.map": "/static/css/main.8f5855ae.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.2132d500fbb8939d343e0d581bf20849.js": "/precache-manifest.2132d500fbb8939d343e0d581bf20849.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "static/css/main.4905a0df.css",
+  "main.css.map": "static/css/main.4905a0df.css.map",
+  "main.js": "static/js/main.0d71182d.js",
+  "main.js.map": "static/js/main.0d71182d.js.map",
+  "static/media/reem-kufi-v4-latin-regular.woff": "static/media/reem-kufi-v4-latin-regular.20e4fd7e.woff",
+  "static/media/reem-kufi-v4-latin-regular.woff2": "static/media/reem-kufi-v4-latin-regular.d8f8811d.woff2",
+  "static/media/roboto-100.woff2": "static/media/roboto-100.9a8a1f8c.woff2",
+  "static/media/roboto-300.woff2": "static/media/roboto-300.c0cc9c92.woff2",
+  "static/media/roboto-400.woff2": "static/media/roboto-400.ece6673e.woff2",
+  "static/media/roboto-900.woff2": "static/media/roboto-900.2e17a648.woff2"
 }
